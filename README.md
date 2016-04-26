@@ -1,8 +1,4 @@
 # hello-world
-A short description
-
-A longer description
-
-Extra stuff.
-
-(by one character)
+A description
+Really, all you ever need
+Not too much; just right
